@@ -1,5 +1,6 @@
-## Hi, I AM VIVEK GUPTA 👋
-
+##  👋 HELLO, I AM VIVEK GUPTA
+<h1>MERN STACK DEVELOPER  :)</h1>
+🌱Learning Never Stops 🚀
 <!--
 **vivekguptacoder/vivekguptacoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
