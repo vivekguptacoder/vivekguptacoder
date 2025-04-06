@@ -28,7 +28,7 @@
 <br>
 <img alt="ReactJS" src="https://img.shields.io/badge/React JS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/Node JS-%2343853D?style=for-the-badge&logo=node&logoColor=white"/>
-<img alt="ExpressJS" src="https://img.shields.io/badge/Express JS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
 
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -49,13 +49,13 @@
 <div align="left">
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-42759C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </div>
 
 
 <h3 align="left">Cloud Services</h3>
 <div align="left"> 
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-FF9900.svg?style=for-the-badge&logo=firebase&logoColor=white"/>
+  
   <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img alt="Render" src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  
 </div>  <br/>
