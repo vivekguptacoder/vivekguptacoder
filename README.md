@@ -5,7 +5,7 @@
 
 - 💬 Major Skills **Full Stack Development**
 
-- Portfolio : **<a href="#" target="_blank">Portfolio</a>**
+- Portfolio : **<a href="https://vivek-portfolio-lemon.vercel.app/" target="_blank">Portfolio</a>**
 
 
 <h3 align="left">Connect with me:</h3>
